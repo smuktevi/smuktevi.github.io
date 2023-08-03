@@ -1,0 +1,139 @@
+theme:
+    name: material
+    custom_dir: overrides
+    
+    # .
+    # ├─ .icons/                             # Bundled icon sets
+    # ├─ assets/
+    # │  ├─ images/                          # Images and icons
+    # │  ├─ javascripts/                     # JavaScript files
+    # │  └─ stylesheets/                     # Style sheets
+    # ├─ partials/
+    # │  ├─ integrations/                    # Third-party integrations
+    # │  │  ├─ analytics/                    # Analytics integrations
+    # │  │  └─ analytics.html                # Analytics setup
+    # │  ├─ languages/                       # Translation languages
+    # │  ├─ content.html                     # Page content
+    # │  ├─ copyright.html                   # Copyright and theme information
+    # │  ├─ footer.html                      # Footer bar
+    # │  ├─ header.html                      # Header bar
+    # │  ├─ language.html                    # Translation setup
+    # │  ├─ logo.html                        # Logo in header and sidebar
+    # │  ├─ nav.html                         # Main navigation
+    # │  ├─ nav-item.html                    # Main navigation item
+    # │  ├─ palette.html                     # Color palette
+    # │  ├─ search.html                      # Search interface
+    # │  ├─ social.html                      # Social links
+    # │  ├─ source.html                      # Repository information
+    # │  ├─ source-file.html                 # Source file information
+    # │  ├─ tabs.html                        # Tabs navigation
+    # │  ├─ tabs-item.html                   # Tabs navigation item
+    # │  ├─ toc.html                         # Table of contents
+    # │  └─ toc-item.html                    # Table of contents item
+    # ├─ 404.html                            # 404 error page
+    # ├─ base.html                           # Base template
+    # └─ main.html                           # Default page
+
+    palette:
+      primary: white
+      accent: deep orange
+    font:
+      text: Vollkorn
+      code: Roboto Mono
+    icon:
+      logo: fontawesome/solid/user-astronaut
+      favicon: fontawesome/solid/user-astronaut #make a custom favicon.png later
+    features:
+      #navigation
+      # - navigation.instant # some features may not work properly with XHR
+      - navigation.tracking # the URL changes with the active anchor
+      - navigation.tabs # first top-level sections are shown as tabs
+      - navigation.tabs.sticky # tabs always show
+      - navigation.sections # sections are rendered as groups in the sidebar
+      # - navigation.expand # all sections are expanded
+      - navigation.indexes # link an index.md page to a section
+      - navigation.top # show back-to-top button
+      - toc.integrate # show table of contents to navigation panel
+      - header.autohide
+
+      #search
+      - search.suggest # display the likeliest completion for the last word
+      - search.highlight # highlight all occurrences
+      - search.share # show a share button
+
+      #interactive content features
+      - content.code.annotate
+
+      #header
+      - header.autohide
+
+site_name: Sai Muktevi
+site_author: Venkata Sai Muktevi (muktevi.venkatasai@gmail.com)
+site_description: Personal Blog/Profile/Portfolio Website for Venkata Sai Muktevi
+
+site_url: https://www.saimuktevi.com/
+
+repo_url: https://github.com/smuktevi/smuktevi.github.io
+repo_name: smuktevi/smuktevi.github.io
+
+copyright: >
+  &copy; 2023 Sai Muktevi<br>
+  <a href="https://github.com/smuktevi/smuktevi.github.io">Blog Theme</a> /
+  <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/smuktevi
+      name: Github - smuktevi
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/smuktevi/
+      name: Linked In - Venkata Sai Muktevi
+    - icon: fontawesome/brands/instagram
+    #   link: https://www.instagram.com/vishuvolatile/
+    #   name: Instagram - @vishuvolatile
+    # - icon: fontawesome/brands/youtube
+    #   link: https://www.youtube.com/@vishuvolatile
+    #   name: YouTube - @vishuvolatile
+    - icon: fontawesome/brands/spotify
+      link: https://open.spotify.com/user/tfqki3vnednmszqo4f5o6c0dz?si=dcd4eb027daf4863
+      name: Spotify - Venkata Sai Muktevi
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<muktevi.venkatasai@gmail.com>
+      name: Email - muktevi.venkatasai@gmail.com
+  
+  generator: false # hide the line "Made with Material for MkDocs"
+
+  extra_css:
+    - assets/extra.css
+
+  extra_javascript:
+    - assets/extra.js
+  
+  plugins:
+    - search # built-in search must be always activated
+    - awesome-pages
+
+  # MkDocs integrates with google analytics
+  analytics:
+    provider: google
+    roperty: G-XXXXXXXXXX or UA-XXXXXXXX-X
+
+  consent:
+    title: 🍪 Cookie Consent
+    description: >- 
+      smuktevi.github.io uses cookies to recognize your repeated visits and preferences, 
+      as well as to measure the effectiveness of my documentation and whether users
+      find what they're searching for. With your consent, you're helping me to
+      make my documentation better. Thank you!
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - hi: 'index.md'
+  - about: 'about.md'
+  - projects: 'ovverrides/404.html'
+  - blog: 'ovverrides/404.html'
+  - spontaneous: 'ovverrides/404.html' #'random.md'
