@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+  - toc
+  - feedback
+title: hi
+---
 # Projects
 
 For now, I consider projects as anything that I've worked on that I found to be a fun learning experience.

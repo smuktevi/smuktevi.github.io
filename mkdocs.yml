@@ -1,48 +1,31 @@
 theme:
     name: material
     custom_dir: overrides
-    
-    # .
-    # ├─ .icons/                             # Bundled icon sets
-    # ├─ assets/
-    # │  ├─ images/                          # Images and icons
-    # │  ├─ javascripts/                     # JavaScript files
-    # │  └─ stylesheets/                     # Style sheets
-    # ├─ partials/
-    # │  ├─ integrations/                    # Third-party integrations
-    # │  │  ├─ analytics/                    # Analytics integrations
-    # │  │  └─ analytics.html                # Analytics setup
-    # │  ├─ languages/                       # Translation languages
-    # │  ├─ content.html                     # Page content
-    # │  ├─ copyright.html                   # Copyright and theme information
-    # │  ├─ footer.html                      # Footer bar
-    # │  ├─ header.html                      # Header bar
-    # │  ├─ language.html                    # Translation setup
-    # │  ├─ logo.html                        # Logo in header and sidebar
-    # │  ├─ nav.html                         # Main navigation
-    # │  ├─ nav-item.html                    # Main navigation item
-    # │  ├─ palette.html                     # Color palette
-    # │  ├─ search.html                      # Search interface
-    # │  ├─ social.html                      # Social links
-    # │  ├─ source.html                      # Repository information
-    # │  ├─ source-file.html                 # Source file information
-    # │  ├─ tabs.html                        # Tabs navigation
-    # │  ├─ tabs-item.html                   # Tabs navigation item
-    # │  ├─ toc.html                         # Table of contents
-    # │  └─ toc-item.html                    # Table of contents item
-    # ├─ 404.html                            # 404 error page
-    # ├─ base.html                           # Base template
-    # └─ main.html                           # Default page
+    show_title: false
+    logo: images/profile_logo.png
+    favicon: images/V.png
 
     palette:
-      primary: white
-      accent: deep orange
+      # Palette toggle for light mode
+      - scheme: default
+        toggle:
+          icon: material/brightness-7 
+          name: Switch to dark mode
+        primary: white
+        accent: deep orange
+
+      # Palette toggle for dark mode
+      - scheme: slate
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+        primary: indigo
+        accent: purple
+
     font:
       text: Vollkorn
       code: Roboto Mono
-    icon:
-      logo: fontawesome/solid/user-astronaut
-      favicon: fontawesome/solid/user-astronaut #make a custom favicon.png later
+
     features:
       #navigation
       # - navigation.instant # some features may not work properly with XHR
@@ -79,10 +62,18 @@ repo_name: smuktevi/smuktevi.github.io
 
 copyright: >
   &copy; 2023 Sai Muktevi<br>
-  <a href="https://github.com/smuktevi/smuktevi.github.io">Blog Theme</a> /
+  <a href="https://github.com/smuktevi/smuktevi.github.io">My Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
 extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Telugu
+      link: /te/
+      lang: te
+
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/smuktevi
@@ -106,7 +97,7 @@ extra:
   # MkDocs integrates with google analytics
   analytics:
     provider: google
-    roperty: G-XXXXXXXXXX or UA-XXXXXXXX-X
+    property: G-326WVY8NM6
 
   consent:
     title: 🍪 Cookie Consent
@@ -127,6 +118,7 @@ extra_javascript:
 plugins:
   - search # built-in search must be always activated
   # - awesome-pages
+  - social
 
 markdown_extensions:
   - attr_list
@@ -136,5 +128,5 @@ nav:
   - Hi: 'index.md'
   - About: 'about.md'
   - Projects: 'projects/welcome.md'
-  - Notes: 'overrides/404.html'
-  - Spontaneous: 'overrides/404.html' #'random.md'
+  - Notes: 'notes/welcome.md'
+  - Spontaneous: '/overrides/404.html' #'random.md'
