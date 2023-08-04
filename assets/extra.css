@@ -1,3 +1,46 @@
+/* Define background colors for light and dark modes */
+:root {
+  --background-light: #fffff8; /* Light mode background color */
+  --background-dark: #333; /* Dark mode background color */
+}
+
+/* Apply background color based on palette mode */
+body[data-md-color-scheme="default"] {
+  background-color: var(--background-light);
+}
+
+body[data-md-color-scheme="dark"] {
+  background-color: var(--background-dark);
+}
+
+/* Increase font size for body text */
+body {
+  font-size: 18px;
+}
+
+/* Increase font size for paragraphs */
+p,
+ul,
+li {
+  font-size: 18px;
+}
+
+/* Increase font size for navigation links */
+nav a {
+  font-size: 16px;
+}
+
+.md-content {
+  max-width: 960px; /* Adjust the max width as needed */
+  margin: 0 auto; /* Center the content horizontally */
+  padding: 20px; /* Add some padding to the content */
+}
+
+/* Hide the title for md_content block
+  .md-content h1 {
+      display: none;
+    } */
+
 /* Custom styles for the Material Design card */
 .material-card {
   display: flex;
@@ -25,34 +68,11 @@
   flex: 1;
 }
 
+/* Add a capitalized first letter */
 .initial-letter::first-letter {
   font-size: 4em;
   font-weight: bold;
   float: left;
   margin-right: 4px;
   line-height: 1;
-}
-
-.fancy-dots {
-  display: flex;
-  align-items: center;
-  margin: 20px 0;
-}
-
-.dots-container {
-  display: flex;
-  flex: 1;
-  justify-content: center;
-}
-
-.dot {
-  width: 5px;
-  height: 5px;
-  background-color: #333;
-  border-radius: 50%;
-  margin: 0 2px;
-}
-
-p {
-  margin: 0;
 }
