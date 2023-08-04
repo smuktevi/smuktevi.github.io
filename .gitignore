@@ -4,5 +4,6 @@ __pycache__
 
 # Caches and logs
 .cache
+.DS_Store
 
 site
