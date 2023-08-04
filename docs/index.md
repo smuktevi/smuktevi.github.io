@@ -2,7 +2,6 @@
 hide:
   - navigation
   - toc
-  - feedback
 title: hi
 ---
 ![Image title](images/profile_pic.png){: align=right width="25%" style="border-radius: 50%;"}

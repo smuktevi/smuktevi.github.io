@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Notes
 
 ### Thoughts - Aug 3 2023

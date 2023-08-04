@@ -1,54 +1,57 @@
 theme:
-    name: material
-    custom_dir: overrides
-    show_title: false
-    logo: images/profile_logo.png
-    favicon: images/V.png
+  name: material
+  custom_dir: overrides
+  show_title: false
+  logo: images/profile_logo.png
+  favicon: images/V.png
 
-    palette:
-      # Palette toggle for light mode
-      - scheme: default
-        toggle:
-          icon: material/brightness-7 
-          name: Switch to dark mode
-        primary: white
-        accent: deep orange
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: white
+      accent: deep orange
 
-      # Palette toggle for dark mode
-      - scheme: slate
-        toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
-        primary: indigo
-        accent: purple
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: indigo
+      accent: purple
 
-    font:
-      text: Vollkorn
-      code: Roboto Mono
+  font:
+    text: Vollkorn
+    code: Roboto Mono
 
-    features:
-      #navigation
-      # - navigation.instant # some features may not work properly with XHR
-      - navigation.tracking # the URL changes with the active anchor
-      - navigation.tabs # first top-level sections are shown as tabs
-      - navigation.tabs.sticky # tabs always show
-      - navigation.sections # sections are rendered as groups in the sidebar
-      # - navigation.expand # all sections are expanded
-      - navigation.indexes # link an index.md page to a section
-      - navigation.top # show back-to-top button
-      - toc.integrate # show table of contents to navigation panel
-      - header.autohide
+  features:
+    #navigation
+    # - navigation.instant # some features may not work properly with XHR
+    - navigation.tracking # the URL changes with the active anchor
+    - navigation.tabs # first top-level sections are shown as tabs
+    # - navigation.tabs.sticky # tabs always show
+    - navigation.sections # sections are rendered as groups in the sidebar
+    - navigation.expand # all sections are expanded
+    - navigation.indexes # link an index.md page to a section
+    - navigation.top # show back-to-top button
+    - navigation.footer
+    - toc.integrate # show table of contents to navigation panel
+    - toc.follow
+    - header.autohide
 
-      #search
-      - search.suggest # display the likeliest completion for the last word
-      - search.highlight # highlight all occurrences
-      - search.share # show a share button
+    #search
+    - search.suggest # display the likeliest completion for the last word
+    - search.highlight # highlight all occurrences
+    - search.share # show a share button
 
-      #interactive content features
-      - content.code.annotate
+    #interactive content features
+    - content.code.annotate
 
-      #header
-      - header.autohide
+    #header
+    - header.autohide
+    - announce.dismiss
 
 site_name: Sai Muktevi
 site_author: Venkata Sai Muktevi (muktevi.venkatasai@gmail.com)
@@ -66,9 +69,11 @@ copyright: >
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
 extra:
+  generator: false
+
   alternate:
     - name: English
-      link: /en/ 
+      link: /en/
       lang: en
     - name: Telugu
       link: /te/
@@ -98,35 +103,54 @@ extra:
   analytics:
     provider: google
     property: G-326WVY8NM6
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/thumb-down-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help me improve this page by
+            using my <a href="https://github.com/smuktevi/smuktevi.github.io/issues/new/?title=[Feedback]+{title}+-+{url}" 
+            target="_blank" rel="noopener">feedback form</a>.
 
   consent:
     title: 🍪 Cookie Consent
-    description: >- 
+    description: >-
       smuktevi.github.io uses cookies to recognize your repeated visits and preferences, 
       as well as to measure the effectiveness of my documentation and whether users
       find what they're searching for. With your consent, you're helping me to
       make my documentation better. Thank you!
-  
+
 extra_css:
   - assets/extra.css
 
 extra_javascript:
   - assets/extra.js
 
-# generator: false # hide the line "Made with Material for MkDocs"
-
 plugins:
   - search # built-in search must be always activated
-  # - awesome-pages
   - social
+  - offline
+  # - awesome-pages
 
 markdown_extensions:
   - attr_list
   - md_in_html
 
 nav:
-  - Hi: 'index.md'
-  - About: 'about.md'
-  - Projects: 'projects/welcome.md'
-  - Notes: 'notes/welcome.md'
-  - Spontaneous: '/overrides/404.html' #'random.md'
+  - Hi: "index.md"
+  - About: "about.md"
+  - Projects: "projects/welcome.md"
+  - Notes: "notes/welcome.md"
+  - Blog: 
+    - Snippets: 
+      - "blog/index.md"
+      - 'Posts':
+        - 'Hello World': blog/posts/hello-world.md
+        - 'Hello World 2': blog/posts/hello-world copy.md

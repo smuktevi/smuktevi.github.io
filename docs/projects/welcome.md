@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-  - feedback
+  # - footer
 title: hi
 ---
 # Projects

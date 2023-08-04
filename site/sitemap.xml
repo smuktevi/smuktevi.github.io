@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://smuktevi.github.io/</loc>
+         <loc>https://smuktevi.github.io/index.html</loc>
          <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/about/</loc>
+         <loc>https://smuktevi.github.io/about.html</loc>
          <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/random/</loc>
+         <loc>https://smuktevi.github.io/blog/index.html</loc>
          <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/notes/welcome/</loc>
+         <loc>https://smuktevi.github.io/blog/posts/hello-world%20copy.html</loc>
          <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/projects/welcome/</loc>
+         <loc>https://smuktevi.github.io/blog/posts/hello-world.html</loc>
+         <lastmod>2023-08-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://smuktevi.github.io/notes/welcome.html</loc>
+         <lastmod>2023-08-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://smuktevi.github.io/projects/welcome.html</loc>
          <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
