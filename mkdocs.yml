@@ -72,6 +72,7 @@ site_author: Venkata Sai Muktevi (muktevi.venkatasai@gmail.com)
 site_description: Personal Blog/Profile/Portfolio Website for Venkata Sai Muktevi
 
 site_url: https://smuktevi.github.io/
+# site_dir: docs
 
 repo_url: https://github.com/smuktevi/smuktevi.github.io
 repo_name: smuktevi/smuktevi.github.io
