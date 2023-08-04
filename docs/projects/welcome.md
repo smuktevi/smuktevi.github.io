@@ -1,6 +1,6 @@
 # Projects
 
-I consider projects as anything that I've worked on that I found to be a fun learning experience. Feel free to cruise or peruse through the following.
+For now, I consider projects as anything that I've worked on that I found to be a fun learning experience.
 
 <div class="material-card">
   <div class="card-image">
