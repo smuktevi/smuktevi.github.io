@@ -2,8 +2,8 @@ theme:
   name: material
   custom_dir: overrides
   show_title: false
-  logo: images/profile_logo.png
-  favicon: images/V.png
+  logo: images/profile_pic.png
+  favicon: images/profile_pic.png
 
   palette:
     # Palette toggle for light mode
