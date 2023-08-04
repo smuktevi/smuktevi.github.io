@@ -22,5 +22,3 @@ Outside of work I like to play volleyball, hike and work on fun side projects.
 On this site, my intention is to dive deeper into my professional journey and articulate my thoughts as I explore more. Also, I can assure you that all the content on this site is written by me and not some AI.
 
 **Don't hesitate to get in touch.**
-
-> "Alone, we can do so little; together, we can do so much." - Helen Keller
