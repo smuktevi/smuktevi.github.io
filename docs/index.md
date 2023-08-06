@@ -11,7 +11,7 @@ title: hi
 
 ### I'm Sai!
 
-I'm currently a **data scientist** working on the **Microsoft Edge browser**.
+I'm currently a **data scientist** working on the **Microsoft Edge browser** with large volumes of data coming in from millions of users from all over the world.
 
 In data science, my opportunities have led me into various areas such as product growth science, heterogeneity analysis, developing ML models and deploying them client-side, user segmentation, user behavior analysis using clustering, model interpretability, social media discussion sentiment analysis, soft sensor modeling and more.
 
