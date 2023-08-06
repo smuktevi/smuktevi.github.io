@@ -1,5 +1,10 @@
 <h1>Venkata Sai V. Muktevi (Vishu)</h1>
 
+<div class="resume-button">
+  <a href="./../images/Venkata-Sai-Muktevi-Resume-Aug-2023.pdf" target="_blank">View Resume</a>
+</div>
+
+
 ## Professional
 
 ### I currently
