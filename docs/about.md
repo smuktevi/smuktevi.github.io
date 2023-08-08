@@ -1,18 +1,16 @@
-<h1>Venkata Sai V. Muktevi (Vishu)</h1>
+<h1 style="text-align: center;">Venkata Sai V. Muktevi (Vishu)</h1>
 
 <div class="resume-button">
   <a href="./../images/Venkata-Sai-Muktevi-Resume-Aug-2023.pdf" target="_blank">View Resume</a>
 </div>
 
-
+> "It is a capital mistake to theorize before one has data." 
+> - Arthur Conan Doyle
 ## Professional
 
 ### I currently
 
-work as a data scientist on the Microsoft Edge browser with data coming in from millions of users from all over the world. I have become increasingly involved with ways to understand our users better in order to provide them with the right features and tools they need to browse the web.
-
-> "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past."
-> - Tim Berners-Lee
+work as a data scientist on the Microsoft Edge browser processing and analyzing data coming in from millions of users from all over the world. I have become increasingly involved with ways to understand our users better in order to provide them with the right features and tools they need to browse the web.
 
 More specifically, I'm part of efforts in building models and deploying them on the client to understand user needs and behavior from client signals without having to use server-side data for user segmentation. I'm also a part of uncovering heterogeneity effects in our experiments due to user segments that arise because of multiple factors. I help design and reiterate on features and additions in our product. Though my title says data scientist I would place myself more as a data and software professional - finding the sweet spot between working as a data scientist and software engineer.
 
