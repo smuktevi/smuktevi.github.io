@@ -12,13 +12,13 @@
 
 work as a data scientist on the Microsoft Edge browser processing and analyzing data coming in from millions of users from all over the world. I have become increasingly involved with ways to understand our users better in order to provide them with the right features and tools they need to browse the web.
 
-More specifically, I'm part of efforts in building models and deploying them on the client to understand user needs and behavior from client signals without having to use server-side data for user segmentation. I'm also a part of uncovering heterogeneity effects in our experiments due to user segments that arise because of multiple factors. I help design and reiterate on features and additions in our product. Though my title says data scientist I would place myself more as a data and software professional - finding the sweet spot between working as a data scientist and software engineer.
+More specifically, I'm part of efforts in building models and deploying them on the client to understand user needs and behavior from client signals for user segmentation. I'm also a part of uncovering heterogeneity effects in our experiments due to user segments that arise because of multiple factors. I help design and reiterate on features and additions in our product. Though my title says data scientist I would place myself more as a data and software professional - finding the sweet spot between working as a data scientist and software engineer.
 
 ### Before Microsoft
 
-- I worked as a data science consultant to help businesses in decision science at IBM.
-- I interned at a startup called Ntwist as a python machine learning engineer on project involving soft sensor modeling for a mineral extraction plant control system using Deep Belief networks.
-- Along the way I worked on a government contract as a java software developer to help pay for college.
+- I primarily worked as a data science consultant to help businesses in decision science at IBM. Here, I also helped build a financial accounting product as a MEAN stack developer while exploring different career paths in software.
+- I interned at a startup called Ntwist as a python machine learning engineer on a project involving soft sensor modeling for a mineral extraction plant's control system data using Deep Belief networks and other such models.
+- I also worked on a government contract as a java software developer and production support engineer just to help pay for college.
 
 ### I develop
 
