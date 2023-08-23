@@ -79,7 +79,7 @@ Sai also has impressive presentation skills and was able to break down complex t
 
 ### I danced
 
-competitively in high school and during my undergrad in college. I choreographed several dances that won prizes during school and also a few that were performed in front of very large audiences broadcasted all over the world. I was part of multiple western style dance groups, also co-founded and successfully lead my own team (TNT)[https://www.instagram.com/trinationtroupe/]. We participated in intercollegiate competitions across the greater Bengaluru area in India raking up prize money amounting to almost 1,60,000 INR. I also got down for street style battles winning prizes and participated in random cypher sessions which were a ton of fun back in college. I try to keep dancing where I can.
+competitively in high school and during my undergrad in college. I choreographed several dances that won prizes during school and also a few that were performed in front of very large audiences broadcasted all over the world. I was part of multiple western style dance groups, also co-founded and successfully lead my own team [TNT](https://www.instagram.com/trinationtroupe/). We participated in intercollegiate competitions across the greater Bengaluru area in India raking up prize money amounting to almost 1,60,000 INR. I also got down for street style battles winning prizes and participated in random cypher sessions which were a ton of fun back in college. I try to keep dancing where I can.
 
 ### I play
 
