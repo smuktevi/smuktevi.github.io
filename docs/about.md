@@ -4,8 +4,6 @@
   <a href="./../images/Venkata-Sai-Muktevi-Resume-Aug-2023.pdf" target="_blank">View Resume</a>
 </div>
 
-> "It is a capital mistake to theorize before one has data." 
-> - Arthur Conan Doyle
 ## Professional
 
 ### I currently
