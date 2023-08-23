@@ -77,8 +77,18 @@ Sai also has impressive presentation skills and was able to break down complex t
 
 # Apart from work
 
+### I danced
+
+competitively in high school and during my undergrad in college. I choreographed several dances that won prizes during school and also a few that were performed in front of very large audiences broadcasted all over the world. I was part of multiple western style dance groups, also co-founded and successfully lead my own team (TNT)[https://www.instagram.com/trinationtroupe/]. We participated in intercollegiate competitions across the greater Bengaluru area in India raking up prize money amounting to almost 1,60,000 INR. I also got down for street style battles winning prizes and participated in random cypher sessions which were a ton of fun back in college. I try to keep dancing where I can.
+
+### I play
+
+volleyball, badminton and basketball in competitive levels (school, college and underdog leagues). I love to play. If you ask me to play something outside all day I'm your guy. I also like learning how to play new games. I don't like watching sports or games unless I'm learning some new skill or strategy about them. So I don't fully follow any specific team, sport or game diligently.
+
 ### I watched
 
-a lot of sci-fi movies growing up, was always fascinated by robots, machines, gadgets and imagining the different things that they could do. I was also very intrigued by the different styles of cinema and the intellectual nuances in building out plot and story. I'll mention a couple movies, tv shows and anime I found endearing and exciting here soon.
+a lot of sci-fi, fantasy and thriller movies and shows, was always fascinated by storylines, plot, how certain shots create certain moods, the boundaries of imagination with otherworldly ideas, world building, and just innovation outside restricting assumptions. I'm very intrigued by the different styles of cinema and the intellectual nuances in cinematography. I'll mention a couple movies, tv shows and anime I found endearing and exciting here later.
 
 <!-- TODO: list media recommendations -->
+
+
