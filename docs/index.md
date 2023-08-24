@@ -15,7 +15,7 @@ I'm currently a **data scientist** working on the **Microsoft Edge browser** ana
 
 In data science, my opportunities have led me into various areas such as product growth science, heterogeneity analysis, developing ML models and deploying them client-side, user segmentation, user behavior analysis using clustering, model interpretability, social media discussion sentiment analysis, soft sensor modeling and more.
 
-In software, I've been exposed to multiple technologies like web technologies through MEAN stack and developing RESTful APIs, cloud as a certified AWS Solutions Architect Associate, and lean full stack solutions for ad-hoc PoC projects.
+In software, I've been exposed to multiple technologies like web development with MEAN stack and through building RESTful APIs, to cloud systems as a certified AWS Solutions Architect Associate, and to lean full stack solutions for ad-hoc PoC projects.
 
 I also deeply enjoy the process of building things from the ground up. I have fun brainstorming new ideas for applications, and I'm always excited to jump into software technology unknown to me.
 
