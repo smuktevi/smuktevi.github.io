@@ -1,9 +1,8 @@
 ---
 comments: true
 ---
-# Notes
 
-### Thoughts - Aug 3 2023
+### Mindset 25.08.2023
 
 <p class="initial-letter">
 <span>B</span>uilding the right solutions for a problem at hand has become increasingly important to me as a data professional. With all the hype surrounding data science and AI in today's world it's important for me to ask; do we even need data science here or is the solution much simpler. Today I work as a data scientist helping stakeholders really define their problems comprehensively before diving into my arsenal of skills to provide them with a solution.

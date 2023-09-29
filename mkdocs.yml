@@ -140,17 +140,31 @@ plugins:
   # - awesome-pages
 
 markdown_extensions:
-  - attr_list
-  - md_in_html
+    - pymdownx.pathconverter:
+        base_path: '' # default: ''
+        relative_path: '' # default ''
+        absolute: false # default: false
+        tags: 'a script img link object embed'
+    - attr_list
+    # - md_in_htmls
+
 
 nav:
   - Hi: "index.md"
   - About: "about.md"
-  - Projects: "projects/welcome.md"
-  - Notes: "notes/welcome.md"
+  - Projects: 
+    - "projects/index.md"
+    - Piped Up: "projects/pipedup.md"
+  - Notes: 
+    - "notes/index.md"
+    - Disclaimer: "notes/disclaimer.md"
+    - Mindset: "notes/mindset.md"
   - Blog: 
-    - Snippets: 
+    - Feed: 
       - "blog/index.md"
-      - 'Posts':
-        - 'Hello World': blog/posts/hello-world.md
-        - 'Hello World 2': blog/posts/hello-world copy.md
+      - 'Tech Posts':
+        - Data and Science: blog/posts/tech1_dataAndScience.md
+        - Optimization: blog/posts/tech2_optimization.md
+      - 'Personal Posts':
+        - Neverest: blog/posts/post1_everest.md
+        - Perspectives: blog/posts/post2_perspectives.md

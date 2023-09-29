@@ -2,7 +2,6 @@
 hide:
   - navigation
   - toc
-title: hi
 ---
 
 <a href='https://bmc.link/smuktevi'>
@@ -24,3 +23,5 @@ Outside of work I like to play volleyball, hike and work on fun side projects.
 On this site, my intention is to dive deeper into my professional journey and articulate my thoughts as I explore more. Also, I can assure you that all the content on this site is written by me and not some AI.
 
 **Don't hesitate to get in touch.**
+
+This site was inspired by the works of [Vincent](https://koaning.io/), [Lj Miranda](https://ljvmiranda921.github.io/), [Chip Huyen](https://huyenchip.com/blog/), [Jay Allamar](https://jalammar.github.io/) and more. Hoping to inspire others myself.

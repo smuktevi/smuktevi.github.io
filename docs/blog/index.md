@@ -6,20 +6,17 @@ hide:
 
 <!-- Entry 1 -->
 
-# Hello world! ~ Aug 4, 2023 (2 min)
+# Feed
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa.
+***Tech Learnings, Personal Questions and General Thoughts***
+### Neverest ~ Sep 27, 2023
 
-[Read more](posts/hello-world.md)
+I used to think climbing Mount Everest would be the greatest thing someone could do in their life.
 
-<!-- Entry 1 -->
+[Read more](posts/post1_everest.md)
 
-# Hello world 2! ~ Aug 5, 2023 (3 min)
+<!-- Entry 2 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa.
+### Perspectives ~ Aug 4, 2023
 
-[Read more](posts/hello-world copy.md)
+[Read more](posts/post2_perspectives.md)
