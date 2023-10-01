@@ -33,7 +33,7 @@ theme:
     - navigation.tabs # first top-level sections are shown as tabs
     # - navigation.tabs.sticky # tabs always show
     - navigation.sections # sections are rendered as groups in the sidebar
-    - navigation.expand # all sections are expanded
+    # - navigation.expand # all sections are expanded
     - navigation.indexes # link an index.md page to a section
     - navigation.top # show back-to-top button
     - navigation.footer
@@ -140,13 +140,7 @@ plugins:
   # - awesome-pages
 
 markdown_extensions:
-    - pymdownx.pathconverter:
-        base_path: '' # default: ''
-        relative_path: '' # default ''
-        absolute: false # default: false
-        tags: 'a script img link object embed'
-    - attr_list
-    # - md_in_htmls
+  - attr_list
 
 
 nav:
@@ -163,7 +157,7 @@ nav:
     - Feed: 
       - "blog/index.md"
       - 'Tech Posts':
-        - Data and Science: blog/posts/tech1_dataAndScience.md
+        - Data See-er: blog/posts/tech1_dataSeer.md
         - Optimization: blog/posts/tech2_optimization.md
       - 'Personal Posts':
         - Neverest: blog/posts/post1_everest.md

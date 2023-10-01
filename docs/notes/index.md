@@ -5,7 +5,6 @@ hide:
 ---
 
 # Notes
-
 ***Ramblings, thoughts, TILs and more.***
 
 <p class="initial-letter">

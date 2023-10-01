@@ -1,10 +1,11 @@
-# TODO: Revamp my personal profile website.
+# TODO:
 
-- [ ] Add resume  
-- [ ] Include all Projects  
-- [ ] Start blogs  
-- [ ] Update every week  
+- [ ] Update project pages and relevant files 
 - [ ] Revise about page
+- [ ] Utilize Travis for CI 
+- [ ] Update UI for Feed page
+- [ ] Update Background information with Brief summary
+- [ ] Check for minor UI fixes
 - [ ] Include a page from google analytics for every visit using cookies
 - [ ] Include visualizations
 
