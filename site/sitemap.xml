@@ -26,12 +26,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/blog/posts/tech1_dataAndScience.html</loc>
+         <loc>https://smuktevi.github.io/blog/posts/post3_calvinAndHobbes.html</loc>
+         <lastmod>2023-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://smuktevi.github.io/blog/posts/tech1_dataSeer.html</loc>
          <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/blog/posts/tech2_optimization.html</loc>
+         <lastmod>2023-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://smuktevi.github.io/blog/posts/tech3_funWithGPT.html</loc>
          <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
