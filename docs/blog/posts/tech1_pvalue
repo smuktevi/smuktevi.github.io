@@ -1,0 +1,21 @@
+---
+hide:
+    - feedback
+comments: true
+---
+
+# P-value
+***Oct 18, 2023***
+
+
+- start with experiments - sampling - simulations and understanding
+- truly understanding
+- break down the definition of p-value fully
+- how would you encounter p-value in the wild
+- what are different ways p-value shows up in python data processing
+- how can it be used and how it shouldn't be used
+- why it makes sense mathematically
+- why it can't always be trusted
+
+
+- Data context - another blog post? - where plug and play works and where it doesn't

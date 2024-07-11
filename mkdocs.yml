@@ -148,7 +148,6 @@ nav:
   - About: "about.md"
   - Projects: 
     - "projects/index.md"
-    - Piped Up: "projects/pipedup.md"
   - Notes: 
     - "notes/index.md"
     - Dear Readers: "notes/disclaimer.md"
@@ -156,9 +155,9 @@ nav:
   - Blog: 
     - Feed: 
       - "blog/index.md"
-      - 'Tech Posts':
-        - Data See-er: blog/posts/tech1_dataSeer.md
+      - 'Technical Musings':
+        - 'The Frequentist Approch': blog/posts/tech3_frequentist.md
         - Optimization: blog/posts/tech2_optimization.md
-      - 'Personal Posts':
+      - 'Thought Faucet':
         - Neverest: blog/posts/post1_everest.md
-        - Perspectives: blog/posts/post2_perspectives.md
+        - Data See-ers: blog/posts/post2_dataSeers.md

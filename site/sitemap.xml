@@ -2,97 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://smuktevi.github.io/index.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/about.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/blog/index.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/blog/posts/post1_everest.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/blog/posts/post2_perspectives.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <loc>https://smuktevi.github.io/blog/posts/post2_dataSeers.html</loc>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/blog/posts/post3_calvinAndHobbes.html</loc>
-         <lastmod>2023-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://smuktevi.github.io/blog/posts/tech1_dataSeer.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/blog/posts/tech2_optimization.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/blog/posts/tech3_funWithGPT.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <loc>https://smuktevi.github.io/blog/posts/tech3_frequentist.html</loc>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/notes/index.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/notes/disclaimer.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/notes/mindset.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://smuktevi.github.io/projects/index.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://smuktevi.github.io/projects/lyriquest.html</loc>
-         <lastmod>2023-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://smuktevi.github.io/projects/ocv.html</loc>
-         <lastmod>2023-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://smuktevi.github.io/projects/pipedup.html</loc>
-         <lastmod>2023-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://smuktevi.github.io/projects/startup.html</loc>
-         <lastmod>2023-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://smuktevi.github.io/projects/thp.html</loc>
-         <lastmod>2023-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://smuktevi.github.io/projects/tsar.html</loc>
-         <lastmod>2023-10-01</lastmod>
+         <loc>https://smuktevi.github.io/rough_drafts/critiques1.html</loc>
+         <lastmod>2024-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

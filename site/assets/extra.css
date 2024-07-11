@@ -50,6 +50,7 @@ nav a {
   border: 1px solid #ccc;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s, border-color 0.3s;
+  border-radius: 10px; /* Add rounded corners */
 }
 
 .material-card:hover {
@@ -62,6 +63,8 @@ nav a {
   max-width: 25%;
   height: auto;
   margin-right: 10px;
+  border-top-left-radius: 10px; /* Add rounded corners to the top left corner */
+  border-bottom-left-radius: 10px; /* Add rounded corners to the bottom left corner */
 }
 
 .card-content {
