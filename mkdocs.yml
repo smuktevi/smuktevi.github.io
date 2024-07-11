@@ -142,7 +142,6 @@ plugins:
 markdown_extensions:
   - attr_list
 
-
 nav:
   - Hi: "index.md"
   - About: "about.md"
@@ -155,9 +154,5 @@ nav:
   - Blog: 
     - Feed: 
       - "blog/index.md"
-      - 'Technical Musings':
-        - 'The Frequentist Approch': blog/posts/tech3_frequentist.md
-        - Optimization: blog/posts/tech2_optimization.md
-      - 'Thought Faucet':
-        - Neverest: blog/posts/post1_everest.md
-        - Data See-ers: blog/posts/post2_dataSeers.md
+      - 'The Frequentist Approch': blog/posts/tech3_frequentist.md
+      - Optimization: blog/posts/tech2_optimization.md
