@@ -8,7 +8,7 @@ hide:
 
 # Feed
 
-***Tech Learnings, Personal Questions and General Thoughts***
+***Notes***
 <!-- ### Neverest ~ Sep 27, 2023
 
 I used to think climbing Mount Everest would be the greatest thing someone could do in their life.

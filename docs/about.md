@@ -1,18 +1,14 @@
 <h1 style="text-align: center;">Venkata Sai V. Muktevi (Vishu)</h1>
 
 <div class="resume-button">
-  <a href="./../artifacts/Venkata-Sai-Muktevi-Resume-Oct-2023.pdf" target="_blank">View Resume</a>
+  <a href="./../artifacts/Venkata-Sai-Muktevi-Resume-December-2024.pdf" target="_blank">View Resume</a>
 </div>
 
 ## Professional
 
 ### I currently
 
-work as a data scientist on the Microsoft Edge browser processing and analyzing data coming in from millions of users from all over the world. I have become increasingly involved with ways to understand our users better in order to provide them with the right features and tools they need to browse the web. I also ensure that the product telemetry we work with is processed in the right way to extract the best quality information we can from it to understand our users, all while respecting their privacy.
-
-More specifically, I'm part of efforts in building models and deploying them on the client to understand user needs and behavior for user segmentation. I'm also a part of uncovering heterogeneity effects and causality in our controlled experiments across varying user segments that arise because of multiple conditions due to our versatile product with hundreds of millions of users all over the world. I also help design and reiterate on features and additions to our product through experimentation efforts across internal organizations. 
-
-My title says data scientist, but I understand that it can mean different things in different instances.  I deal with product Key Performance Indicator (KPI) metrics and telemetry data. My projects focus on retention, acquisition, experimentation and attribution.
+work as a data scientist on the Microsoft Edge browser processing and analyzing data coming in from millions of users from all over the world. I have become increasingly involved with ways to understand our users better in order to provide them with the right features and tools they need to browse the web. I also ensure that the product telemetry we work with is processed in the right way to extract the best quality information we can from it to understand our users, all while respecting their privacy. My projects focus on user retention, acquisition, experimentation, churn and segmentation.
 
 ### Before Microsoft
 
@@ -36,43 +32,6 @@ Data Science Masters at the University of Washington (Seattle) and graduated in 
 dove into CS during my Bachelors at Ramaiah Institute of Technology (Banglore) and graduated in 2019,  
 and did my schooling in a boarding school in rural India.
 
-### I built
-
-a couple side projects along the way:
-
-- One Customer Voice (Microsoft Global Hackathon '22 executive category 2nd place winner)
-- Topic-Sentiment Analysis and Relevance System (TSAR) and BEReddiT
-- LyriQuest (College Best Project Award)
-- RecipEat
-- PipedUp
-- FixForm
-- Exploring the Hunger Project in Africa.
-- Exploring the spread of COVID and its effect on government policies across the world.
-
-### Recommendations
-
-#### [Luo Mi](https://www.linkedin.com/in/luomi) · Research Data Scientist at Meta · April 8, 2022
-
-"I mentored Sai and a few other talented UW Data Science Master student in their final project. The project revolves around automatic Reddit forum text retrieval, sentimental analysis and topic modeling. The team was able to delivery cloud-deployed mature data product capable of Subreddit sentiment/topic analysis, identification of post discussion "toxicity" as well as a few other relevant functionalities using Deep Learning NLP. 
-
-Throughout the execution of the project, Sai impressed me as being highly self-motivated, good with communication and capable of producing concrete results under vague instructions. Sai also has a SWE background which enables him to not only take on analytics role but also capable of delving into the engineering aspect of the Data Science Work. Aside from technical know-how, Sai also has a long-term plan for his career development. From my 1:1 with him, he can clearly articulate what his career interests are and viable paths to reach the goal. For someone relatively new to the realm of DS, this type of forward planning will be a big contributing factor in his eventual success. 
-
-All in all, I think any data science team would be lucky to have him on the team."
-<p style="text-align: center;">...</p>
-
-#### [Luan Jiang](https://www.linkedin.com/in/luan-jiang-75413857) · Data and Applied Scientist at Microsoft · September 29, 2021
-
-"Sai interned on my team at Microsoft during the summer of 2021 and his internship project was a great success. 
-
-Sai has solid technical skills and is a quick learner. As soon as he joined the team, he progressed extremely fast and successfully completed his onboarding within just two weeks. Sai’s project tested him on many fundamental data science concepts such as exploratory data analysis, various tradeoffs of different modeling algorithms, model interpretability and data visualization. Right away, he showed solid foundational knowledge on each of these areas, and he learned and improved on his existing knowledge as time went on. In addition, Sai had to learn how to use Databricks and how to write code in Pyspark in a short amount of time, showing he’s not afraid of challenges and he can learn fast.
-
-Sai also has impressive presentation skills and was able to break down complex topics in a way that can be digested by a non-technical audience. He was very communicative and easy to work with. It was a great experience working with Sai and he would a tremendous asset to any companies." 
-<p style="text-align: center;">...</p>
-
-#### [Chowdary Meenavilli](https://www.linkedin.com/in/chowdarymeenavilli) · CEO and Founder at Ntwist · July 21, 2020 
-
-"Venkata Sai has worked for me as an Intern creating artificially intelligent systems to optimize industrial processes. During that time, Sai had gone through rigorous training. His ability to adapt and use the tools he just learnt effectively allowed his work to be highly productive. Sai is also a very hard worker, as he was enrolled in his undergraduate program, which he would attend while working during the weekdays. He was able to manage both the workload from NTWIST and his course while being successful at both. Along with this he was able to co-create a machine learning solution for an industrial process. The final product was able to make better operational decisions relative to the operator and increase profits by 42% of the time. I believe Venkata Sai has the ideal perspective to create machine learning solutions."
-
 <p style="text-align: center;">...</p>
 
 # Apart from work
@@ -83,12 +42,4 @@ competitively in high school and during my undergrad in college. I choreographed
 
 ### I play
 
-volleyball, badminton and basketball in competitive levels (school, college and underdog leagues). I love to play. If you ask me to play something outside all day I'm your guy. I also like learning how to play new games. I don't like watching sports or games unless I'm learning some new skill or strategy about them. So I don't fully follow any specific team, sport or game diligently.
-
-### I watched
-
-a lot of sci-fi, fantasy and thriller movies and shows, was always fascinated by storylines, plot, how certain shots create certain moods, the boundaries of imagination with otherworldly ideas, world building, and just innovation outside restricting assumptions. I'm very intrigued by the different styles of cinema and the intellectual nuances in cinematography. I'll mention a couple movies, tv shows and anime I found endearing and exciting here later.
-
-<!-- TODO: list media recommendations -->
-
-
+volleyball, badminton and basketball in competitive levels (school, college and underdog leagues). I love to play.

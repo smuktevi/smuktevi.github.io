@@ -10,26 +10,21 @@ hide:
 
 ### I'm Sai!
 
-I'm currently a **Data Scientist** working on the **Microsoft Edge browser** in product growth processing and analyzing large volumes of data coming in from hundreds of millions of users from all over the world. My title says data scientist, but I understand that it can mean different things in different instances. My projects focus on retention, acquisition, experimentation and attribution. I deal with product Key Performance Indicator (KPI) metrics and telemetry data to drive business growth.
+I'm currently a **Data Scientist** working on the **Microsoft Edge browser** in product growth, processing and analyzing large volumes of data coming in from hundreds of millions of users from all over the world. My projects focus on developing product telemetry, features and metrics all in an effort to increase or track growth. I work within the realms of user retention, acquisition, experimentation, churn and segmentation.
 
-In data science, my opportunities have led me to work in various areas such as KPI metric analysis, heterogeneity effects and meta-analysis, Total Addressable Market (TAM) analysis, experimentation, developing ML models, deploying models on the product (client-side), user segmentation, model interpretability, social media feedback analysis, soft sensor modeling for industrial processing plants, and more.
-
-In software, I had a short stint working on basic front-end and API integrations for web applications, database management and production support using some lean tech stacks like MEAN for ad-hoc projects and developing PoC products. I'm also certified as an AWS Solutions Architect Associate and have worked with Azure services too.
-
-I deeply enjoy the process of helping products realize their true growth potential using data. I also have fun brainstorming new ideas for applications and building things from the ground up. I'm always excited to jump into software technology new to me.
+I deeply enjoy the process of helping products realize their true growth potential using data. I also have fun brainstorming new ideas for applications and building things from the ground up.
 
 Outside of work I like to play volleyball, dance, hike and work on fun side projects.
 
-On this site, my intention is to share things, dive deeper into my professional journey and articulate my thoughts as I explore and learn more. I can assure you that all the content on this site is written by me and not some AI.
+#### HEADS UP! ~ I'm hoping to revamp this site with more content later on, but I'm currently working on a couple other things right now. I appreciate your patience!
 
-**I'm happy to connect and talk about anything! So don't hesitate to get in touch.**  
-(You'll find my contacts at the bottom of the page)
+**I'm happy to connect if you'd like to learn more about me and my work, so don't hesitate to get in touch! The best way to reach out to me is via [LinkedIn](https://www.linkedin.com/in/smuktevi/).** 
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="smuktevi" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ---
 
-<div style="display: flex; justify-content: space-between; max-width: 900px; margin: 20px auto;">
+<!-- <div style="display: flex; justify-content: space-between; max-width: 900px; margin: 20px auto;">
 
   <div style="flex: 1; margin-right: 10px; padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); text-align: left;">
     <h2>The Firefly Jar Podcast by Vishu</h2>
@@ -47,8 +42,6 @@ On this site, my intention is to share things, dive deeper into my professional 
     </p>
   </div>
 
-</div>
+</div> -->
 
-
-
-This site was inspired by the works of [Vincent](https://koaning.io/), [Lj Miranda](https://ljvmiranda921.github.io/), [Chip Huyen](https://huyenchip.com/blog/), [Jay Allamar](https://jalammar.github.io/) and more. Hoping to inspire others myself.
+This site was inspired by the works of [Vincent](https://koaning.io/), [Lj Miranda](https://ljvmiranda921.github.io/), [Chip Huyen](https://huyenchip.com/blog/), [Jay Allamar](https://jalammar.github.io/) and more.
